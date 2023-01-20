@@ -5,7 +5,10 @@ In this project we have taken a JavaScript object containing data of UFO sightin
 ## Results
 In order to use this webpage to sort through the results, Dana needs to go to the left side of the webpage. There, she can enter in whatever search parameters she is looking to filter her data by entering in any one of the textboxes as seen below:
 
+<img src="https://github.com/bchillman/UFOs/blob/main/Challenge/Pictures/Filters.png" width="209" height="420">
+
 For example, if she wants to filter El Cajon, CA, she would enter in these paramaters as shown below and get these results:
+<img src="https://github.com/bchillman/UFOs/blob/main/Challenge/Pictures/Filtered.png" width="650" height="400">
 
 Thus, she can find whatever specific UFO information she needs from this website for her research.
 
